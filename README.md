@@ -67,3 +67,6 @@ START reg delete HKCR/*
     > _This should shut down the person’s computer. It shuts it off once and deletes the files needed to reboot and restart.
 
 REMEMBER — DO NOT CLICK THIS FILE._ 
+
+
+##HappyHacking - GoodLuck
